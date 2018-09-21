@@ -1,6 +1,7 @@
 # WIP: xray-python-opentracing
 
 [![MIT license](http://img.shields.io/badge/license-MIT-blue.svg)](http://opensource.org/licenses/MIT)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdssrt%2Fxray-python-opentracing.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdssrt%2Fxray-python-opentracing?ref=badge_shield)
 
 Python [OpenTracing](http://opentracing.io/) implementation for [AWS X-Ray](http://docs.aws.amazon.com/xray/latest/devguide/aws-xray.html), a distributed tracing system.
 
@@ -39,3 +40,7 @@ if __name__ == "__main__":
 
 This library is an AWS X-Ray binding for [OpenTracing](http://opentracing.io/). See the [OpenTracing Python API](https://github.com/opentracing/opentracing-python) for additional detail.
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdssrt%2Fxray-python-opentracing.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdssrt%2Fxray-python-opentracing?ref=badge_large)
